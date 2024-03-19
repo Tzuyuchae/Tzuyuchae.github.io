@@ -1,0 +1,24 @@
+p{
+    color: blueviolet;
+}
+body{
+    background-color: lightskyblue;
+}
+h1{
+    color: rgb(48,200,21);
+    background-color: rgb(40,23,100);
+}
+img{
+    border-radius: 40px;
+}
+h2{
+    font-style: italic;
+    color: purple;
+}
+li{
+    font-size: 20pt;
+    color:blueviolet;
+}
+ul{
+    font-variant: small-caps;
+}
