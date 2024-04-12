@@ -19,6 +19,7 @@ li{
 }
 ul{
     font-variant: small-caps;
+}
 section{
     border: 5px var(lightskyblue) solid;
     margin: 5px;
